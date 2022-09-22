@@ -16,6 +16,7 @@ public class Practica {
      * Lista para guardar los detalles de la factura
      */
     public static List<Factura> listaFactura;
+
     public static Scanner sc;
     public static String nomCliente;
     public static double total = 0;
